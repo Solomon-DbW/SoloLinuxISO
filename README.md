@@ -7,6 +7,8 @@ The SoloLinux project, a Linux operating system based on Arch Linux.
 ## Installation
 ### !!!WARNING!!!
 - The SoloLinux installation script doesn't yet support dual booting and isn't fully tested yet, so ensure to backup all necessary data before proceeding with the installation.
+### Direct install
+ [Install ISO file](https://drive.google.com/file/d/1tR0WJT6EbkYpp-XuzMLWYjR9TVVFVKmi/view?usp=drive_link)
 ### Requirements
 - Ensure `git` and `archiso` are installed on your system before proceeding with the installation.
 ### Building the ISO
