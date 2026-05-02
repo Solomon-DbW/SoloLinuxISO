@@ -20,6 +20,7 @@ file_permissions=(
   ["/root/.automated_script.sh"]="0:0:755"
   ["/root/auto_install.sh"]="0:0:755"
   ["/root/auto_install_2.sh"]="0:0:755"
+  ["/root/full_install.sh"]="0:0:755"  
   ["/root/.gnupg"]="0:0:700"
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/Installation_guide"]="0:0:755"
