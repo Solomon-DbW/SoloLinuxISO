@@ -138,7 +138,6 @@ rofi
 sddm
 waybar
 wireplumber
-pulseaudio
 pavucontrol
 yazi
 xorg-xwayland
@@ -149,4 +148,3 @@ xdg-desktop-portal-gtk
 brightnessctl
 hyprpaper
 uwsm
-
