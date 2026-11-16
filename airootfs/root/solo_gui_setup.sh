@@ -86,7 +86,7 @@ fi
 #  AUR PACKAGES
 # ----------------------------------------
 msg "Installing AUR packages…"
-yay -S --noconfirm brave-bin hyprshade visual-studio-code-bin waypaper sddm-theme-mountain-git git-credential-manager hyprshot-gui
+yay -S --noconfirm brave-bin hyprshade visual-studio-code-insiders-bin waypaper sddm-theme-mountain-git git-credential-manager hyprshot-gui
 
 # ----------------------------------------
 #  BACKUP CONFIGS
@@ -122,7 +122,7 @@ msg "Installing Hyprland environment…"
 
 sudo slpm install \
     hyprland hyprpaper hyprlock waybar rofi fastfetch cpufetch brightnessctl \
-    kitty virt-manager networkmanager nvim emacs sddm uwsm \
+    kitty virt-manager networkmanager nvim emacs sddm uwsm nautilus \
     xdg-desktop-portal-hyprland qt5-wayland qt6-wayland \
     polkit-kde-agent meson wireplumber pulseaudio pavucontrol \
     archiso qemu yazi virtualbox
