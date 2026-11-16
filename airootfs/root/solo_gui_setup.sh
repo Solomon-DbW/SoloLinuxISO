@@ -124,7 +124,7 @@ sudo slpm install \
     hyprland hyprpaper hyprlock waybar rofi fastfetch cpufetch brightnessctl \
     kitty virt-manager networkmanager nvim emacs sddm uwsm nautilus \
     xdg-desktop-portal-hyprland qt5-wayland qt6-wayland \
-    polkit-kde-agent meson wireplumber pulseaudio pavucontrol \
+    polkit-kde-agent meson wireplumber pavucontrol \
     archiso qemu yazi virtualbox
 
 # ----------------------------------------
@@ -274,7 +274,7 @@ echo -e "${BLUE}Log out and log back in, then choose Hyprland to start SoloLinux
 #     hyprland hyprpaper hyprlock waybar rofi fastfetch cpufetch brightnessctl \
 #     kitty virt-manager networkmanager nvim emacs sddm uwsm \
 #     xdg-desktop-portal-hyprland qt5-wayland qt6-wayland \
-#     polkit-kde-agent meson wireplumber pulseaudio pavucontrol \
+#     polkit-kde-agent meson wireplumber pavucontrol \
 #     archiso qemu yazi virtualbox
 #
 # # ----------------------------------------
